@@ -1,4 +1,4 @@
-# Commandss For Monochrome
+# Commands For Monochrome
 ## open _____
 opens the specified website in an i-frame
 ## username ______
