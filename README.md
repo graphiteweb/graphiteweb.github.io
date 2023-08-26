@@ -9,7 +9,7 @@ Please refer to the documentation for detailed instructions on how to use the Mo
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE.md).
 
 ## Acknowledgments
 
