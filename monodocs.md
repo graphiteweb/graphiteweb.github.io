@@ -7,8 +7,15 @@ sets username to specified thing
 creates a notification with specified text
 ## temp src _______
 opens a temporary html app with the specified source code
+# Command that are bieng added soon:
 ## install ____ ______
 installs an html app that works like the temp src command, but works offline. the first blank is for what you want to name the app, the second is for the app src
 ## app _____
 opens an app installed with the previous step, using the app name
-## That's it so far. More to come!
+## help
+lists commands
+## print chr$(147)
+clears screen (c64)
+## time
+shows current time
+## That's it so far. [Contact us](https://graphiteweb.github.io/contact) if you have any suggestions.
