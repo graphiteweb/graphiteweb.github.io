@@ -1,6 +1,6 @@
 # The Graphite Project
 ## What is the Graphite Project?
-The Graphite Project consists of the "Monochrome" mock-linux OS and "GRAYSCALE" an i-frame-based browser, both built as an experiment to explore the capabilities of Penguinmod, TurboWarp, and Scratch.
+The Graphite Project consists of the [*Monochrome*](monodocs.md) mock-linux OS and *GRAYSCALE* an i-frame-based browser, both built as an experiment to explore the capabilities of Penguinmod, TurboWarp, and Scratch.
 This is the web deployment of this project. The official application is not up yet, but it will be soon (I hope).
 
 ## Usage
