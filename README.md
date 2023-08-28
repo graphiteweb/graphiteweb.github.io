@@ -7,6 +7,8 @@ This is the web deployment of this project. The official application is not up y
 
 Please refer to the documentation for detailed instructions on how to use the Monochrome OS and GRAYSCALE.
 
+# Use Mono [here](graphiteweb.github.io/mono/)
+
 ## License
 
 This project is licensed under the [MIT license](LICENSE.md).
