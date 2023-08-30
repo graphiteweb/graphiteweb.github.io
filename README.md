@@ -7,7 +7,7 @@ This is the web deployment of this project.
 
 Please refer to the documentation for detailed instructions on how to use the Monochrome OS and GRAYSCALE.
 
-# Use Mono [here](mono.html)
+# Use Mono [here](mono)
 
 ## License
 
