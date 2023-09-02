@@ -9,11 +9,11 @@ creates a notification with specified text
 opens a temporary html app with the specified source code
 ## install ____ ______
 installs an html app that works like the temp src command, but works offline. The first blank is for what you want to name the app, the second is for the app src
+## app _____
+opens an app installed with the previous step, using the app name
 ## delete _____
 deletes specified app
 # Command that are being added soon:
-## app _____
-opens an app installed with the previous step, using the app name
 ## help
 lists commands
 ## print chr$(147)
